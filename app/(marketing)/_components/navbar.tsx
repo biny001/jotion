@@ -30,6 +30,7 @@ const Navbar = () => {
               <Button
                 variant={"ghost"}
                 size={"sm"}
+                asChild
               >
                 Log in
               </Button>
